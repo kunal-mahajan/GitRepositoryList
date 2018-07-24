@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Git Feature Listing</string>
+    <string name="updated_on">Updated on:</string>
+</resources>
